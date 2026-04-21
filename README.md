@@ -16,4 +16,5 @@ Sales.zip – Contains sales-related data and records.
 
 images.zip – Contains images used in the project.
 
+
 icons.zip – Contains icons used for interface and display purposes.
